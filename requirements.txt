@@ -1,2 +1,2 @@
 mfd-common-libs>=1.11.0
-mfd-typing>=1.23.0
+mfd-typing>=1.25.0
